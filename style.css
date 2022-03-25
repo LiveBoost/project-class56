@@ -1,0 +1,17 @@
+body{
+    background-color:blue;
+    color:aquamarine;
+    font-family: 'Yellowtail', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+img{
+    height:200px;
+    width:300px;
+    border: aquamarine solid 5px;
+    border-radius: 20px;
+}
+hr{
+height:10px;
+background-color:aquamarine;
+}
